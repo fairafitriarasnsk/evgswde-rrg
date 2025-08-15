@@ -1,4 +1,4 @@
-name: oapsikaapp
+name: osikaapp
 on: 
   push:
     branches: [ "main" ]
